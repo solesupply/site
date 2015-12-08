@@ -85,10 +85,13 @@
 	padding: 10px;
 }
 
+.social-icons {
+	margin-bottom: 40px;
+}
+
 .social-icons img {
 	width: 40px;
 	height: auto;
-	margin-bottom: 30px;
 }
 
 #email {
