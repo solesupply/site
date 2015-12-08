@@ -99,3 +99,10 @@
  	font-size: 10px;
 }
 
+@media (max-width: 480px) {
+	.logo img {
+	width: 200px;
+	height: auto;
+}
+}
+
